@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prossion
-- 👀 I’m interested in developing cross-platform applications for android and ios
+- 👀 I’m interested in developing cross-platform applications for Android and Ios
 - 🌱 Now I'm learning all the intricacies and tricks of development on Flutter
 - 💞️ I'm looking for collaboration with those who offer to develop and maintain cool ideas that help people
 - 📫 How to reach me: Telegram @prossion
