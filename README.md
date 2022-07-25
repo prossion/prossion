@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=prossion&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prossion&langs_count=5&theme=tokyonight)]()
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=prossion&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" target="_blank"><img alt="Github Stats 3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prossion&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
